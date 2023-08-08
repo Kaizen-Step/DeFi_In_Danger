@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 
 # Layout
-st.set_page_config(page_title='Blend Protocol On-Chain Activity',
+st.set_page_config(page_title='DeFi In Danger, Can Governance Provide the Remedy?',
                    page_icon=':bar_chart:📈', layout='wide')
 st.title('DeFi In Danger, Can Governance Provide the Remedy?')
 st.text(" \n")
